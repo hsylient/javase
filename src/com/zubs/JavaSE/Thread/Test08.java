@@ -9,3 +9,10 @@ package com.zubs.JavaSE.Thread;
 public class Test08 {
 
 }
+
+
+/*
+
+	脑子有问题
+
+*/
